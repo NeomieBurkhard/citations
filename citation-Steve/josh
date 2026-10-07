@@ -18,11 +18,12 @@
 	<main class="row">
 		<section>
 			<p>As long as there are people, there will be user experience, and user interface designers.</p>
-			<h1>— STEVE MCGARRY</h1>
+			<h3>— STEVE MCGARRY</h6>
 		</section>
-
-	</div>
-		<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt esse ratione est dolor quo, earum laboriosam amet unde impedit inventore distinctio cupiditate blanditiis rerum adipisci porro sapiente consequatur molestias eveniet?</p>
+		<section>
+			<p>Machine learning won’t figure out what problems to solve. If you aren’t aligned with a human need, you’re just going to build a very powerful system to address a very small—or perhaps nonexistent—problem.</p> 
+			<h3>— JOSH LOVEJOY </h6>
+		</section>	
 	</main>
 
 
